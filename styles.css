@@ -62,7 +62,7 @@ nav .icon i {
 }
 
 .hero-section {
-  background-image: url(./img/head.jpg);
+  background-image: url(./head.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -159,7 +159,7 @@ nav .icon i {
 }
 
 .photo {
-  background-image: url(./img/Black-Hole.jpg);
+  background-image: url(./Black-Hole.jpg);
   background-size: cover;
   background-position: center;
 }
